@@ -2,18 +2,8 @@
 
 Short, metric-driven wins with artifacts.
 
-- PCI DSS Evidence Automation
-- On/Offboarding 1-Click
-- SOC Visibility (Wazuh + Prometheus)
+- [001 — PCI DSS Evidence Automation](./001-pci-evidence-automation/)
+- [002 — On/Offboarding 1-Click](./002-onoffboarding-1click/)
+- [003 — SOC Visibility (Wazuh + Prometheus)](./003-soc-visibility/)
 
-
-## Artifacts
-- `/docs/` step-by-step with screenshots
-- `/scripts/` repeatable automation
-- `/dashboards/` sample JSON/PBIX (if relevant)
-- `/templates/` redacted policies/SOPs
-
----
-**Contact**  
-- Email: **suresh@echand.com**  
-- LinkedIn: **linkedin.com/in/sureshchand01**
+> Add screenshots to each folder’s `docs/` later (`docs/img/cover.png`).
